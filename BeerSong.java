@@ -1,8 +1,8 @@
 package beersong;
 
-public class BeerSong {
+Interface BeerSong {
     
-    Main()
+    Main();
             
-    Ninety_Nine_Bottles_of_Beer()
+    Ninety_Nine_Bottles_of_Beer();
 }
